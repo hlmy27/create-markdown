@@ -16,3 +16,5 @@ untuk membuat sebuah, header dibutuhkan heading (`#`), semakin banyak `#` maka s
 
 
 Github Logo: ![Alt Text](https://lh3.googleusercontent.com/proxy/b4fYDp_sS-jbLVkhC6jRt-aJrV5K5XFMaGNFhpyY6NEDp0J8lc2xBpdikLlgEZzwI7xRBdd1GATzd76yvwvReBN-3KFfNIbelmZKf-htBfnE)
+
+It's corona time, dude !
